@@ -16,12 +16,14 @@ pyenv : pyenv의 경우 Python Version Manger임과 동시에 가상환경 기�
 
 
 ## Backend
+
 -accounts = 회원에 대한 모델  
 -realtors = 부동산 중개업자에 대한 모델
 -listings = 부동산 매물에 대한 모델
 
 
-##패키지
+## 패키지
+
 *djangorestframework = REST API를 위한 장고 패키지  
 *django-cors-headers 장고와 리액트 소통을 위한 패키지  
 *djangorestframework-simplejwt -JSON을 위한 패키지  
